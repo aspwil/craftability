@@ -1,0 +1,7 @@
+name: Craftability
+version: '${project.version}'
+main: io.github.aspwil.craftability.Craftability
+api-version: 1.19
+authors: [ aspwil ]
+description: Aims to add highly customisable crafting into the game
+website: aspwil.github.io
